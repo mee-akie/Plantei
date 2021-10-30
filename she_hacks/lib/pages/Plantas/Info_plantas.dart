@@ -28,7 +28,7 @@ List<Info_planta> plantas = [
       ]),
   Info_planta(2,
       name: 'Cenoura',
-      iconImage: 'assets/imagens/venus.png',
+      iconImage: 'assets/imagens/cenoura.png',
       description:
           "The second planet from the sun, Venus is Earth's twin in size. Radar images beneath its atmosphere reveal that its surface has various mountains and volcanoes. But beyond that, the two planets couldn't be more different. Because of its thick, toxic atmosphere that's made of sulfuric acid clouds, Venus is an extreme example of the greenhouse effect. It's scorching-hot, even hotter than Mercury. The average temperature on Venus' surface is 900 F (465 C). At 92 bar, the pressure at the surface would crush and kill you. And oddly, Venus spins slowly from east to west, the opposite direction of most of the other planets.",
       images: [
@@ -37,7 +37,7 @@ List<Info_planta> plantas = [
       ]),
   Info_planta(3,
       name: 'Tomate',
-      iconImage: 'assets/imagens/earth.png',
+      iconImage: 'assets/imagens/tomate.png',
       description:
           "The third planet from the sun, Earth is a waterworld, with two-thirds of the planet covered by ocean. It's the only world known to harbor life. Earth's atmosphere is rich in nitrogen and oxygen. Earth's surface rotates about its axis at 1,532 feet per second (467 meters per second) — slightly more than 1,000 mph (1,600 kph) — at the equator. The planet zips around the sun at more than 18 miles per second (29 km per second).",
       images: [
