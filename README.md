@@ -9,8 +9,8 @@ por sementes em parceiros da Plantei próximos do usuário. </p>
 
 **Pitch**: [link](https://www.youtube.com/watch?v=nJFoDysb9yg)
 
-** Autoras do projeto: <br>
+** Autoras do projeto**: <br>
 [Thais de Souza Rodrigues](https://github.com/thatarocket)<br>
 [Melissa Akie Inui](https://github.com/mee-akie)<br>
 [Giane Mayumi Galhard](https://github.com/Anemaygi)<br>
-[Sabrina Lopes Soare](https://github.com/sabslopes)** </p>
+[Sabrina Lopes Soares](https://github.com/sabslopes)</p>
