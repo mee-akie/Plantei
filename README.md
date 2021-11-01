@@ -7,7 +7,7 @@ ao passo que conscientiza sobre educação alimentar, ensinando receitas fáceis
 feitas utilizando suas plantações. Também há a possibilidade de trocar alimentos excedentes 
 por sementes em parceiros da Plantei próximos do usuário. </p> 
 
-**Autores do projeto: <br>
+** Autores do projeto: <br>
 [Thais de Souza Rodrigues](https://github.com/thatarocket) <br>
 [Melissa Akie Inui](https://github.com/mee-akie)<br>
 [Giane Mayumi Galhard](https://github.com/Anemaygi) <br>
